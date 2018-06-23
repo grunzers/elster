@@ -1,3 +1,3 @@
-# openx
+# elster
 
 Replaces Google.
